@@ -8,7 +8,7 @@ readme = "README.md"
 dependencies = [
     "python-multipart==0.0.19",
     "numpy==2.2.0",
-    "pillow==11.0.0",
+    "pillow==12.2.0",
     "python-doctr[torch]==0.10.0",
     "requests==2.32.3"
 ]
